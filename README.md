@@ -16,6 +16,6 @@ Portfolify is built with [Next.js](https://nextjs.org/) and [Tailwind CSS](https
 Forget about writing markdown files and uploading them to your server via terminal. With portfolify, you can write your blog posts in a simple, efficient and intuitive interface and publish them in seconds without leaving the WYSIWYG editor.
 
 ### Cost Efective: 
-It is a static site, so you can host it for free on GitHub Pages, Netlify, Amazon S3, or any other static site host.
+It is a static site, so you can host it for free on GitHub Pages, Netlify, Amazon S3, or any other static site hosting provider.
 
 
