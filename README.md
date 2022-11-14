@@ -7,7 +7,7 @@ Customizable blog with built-in CMS that you only host in one place.
 
 ## Features
 
-### Lighting fast.
+### Lighting fast:
 
 Portfolify is built with [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/) using SSG for deployments so it's blazingly fast.
 
