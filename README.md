@@ -1,4 +1,8 @@
-# portfolify
+<p align="left">
+<img src=".github/media/icon.png", width="600">
+</p>
+
+
 Customizable blog with built-in CMS that you only host in one place.
 
 ## Features
@@ -15,6 +19,3 @@ Forget about writing markdown files and uploading them to your server via termin
 It is a static site, so you can host it for free on GitHub Pages, Netlify, Amazon S3, or any other static site host.
 
 
-<p align="left">
-<img src=".github/media/icon.png", width="600">
-</p>
