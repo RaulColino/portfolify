@@ -16,5 +16,5 @@ It is a static site, so you can host it for free on GitHub Pages, Netlify, Amazo
 
 
 <p align="left">
-<img src=".github/media/icon.excalidraw.png", width="600">
-</p>![Alt text]()
+<img src=".github/media/icon.png", width="600">
+</p>
